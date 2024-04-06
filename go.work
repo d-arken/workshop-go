@@ -4,4 +4,5 @@ use (
 	1_helloworld/example
 	2_pingpong/example
 	3_json/example
+	4_panicrecovery/example
 )
