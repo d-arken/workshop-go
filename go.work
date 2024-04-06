@@ -1,0 +1,7 @@
+go 1.22.2
+
+use (
+	1_helloworld/example
+	2_pingpong/example
+	3_json/example
+)
