@@ -7,4 +7,5 @@ use (
 	4_panicrecovery/example
 	5_orm/example
 	6_oauth/example
+	7_crawler/example
 )
